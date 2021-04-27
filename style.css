@@ -1,0 +1,38 @@
+html, body {
+  margin: 0;
+.text-blockdding: 0;
+}
+.text-block {
+  font-family: 'Changa One', Impact, sans-serif;
+  color: indigo;
+  font-size: 60px;
+  line-height: 60px;
+  text-align: center;
+}
+
+.text-block-2 {
+  font-size: 35px;
+}
+
+.text-block-3 {
+  font-size: 35px;
+  text-align: center;
+}
+
+.text-block-4 {
+  font-family: 'Droid Serif', serif;
+  color: indigo;
+  font-size: 35px;
+  line-height: 35px;
+  text-align: center;
+}
+
+.div-block {
+  padding-top: 5vw;
+  padding-right: 5vw;
+  padding-left: 5vw;
+  background-color: #e2bdf0;
+}
+
+.body {
+  background-color: #e2bdf0;
